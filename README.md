@@ -1,2 +1,13 @@
 # Postgresql-er-diagram
-A relational database schema designed to showcase the connections between 30 unique events, 50 users, and several supporting tables. Built with PostgreSQL, this project focuses on illustrating entity relationships and structural clarity through ER diagrams and clean schema design.
+
+This project showcases a relational database schema built with PostgreSQL, designed to represent the structure of a fictional event platform. It includes:
+
+30 unique events
+
+50 users
+
+Multiple supporting tables (locations, categories, registrations, etc.)
+
+Carefully defined relationships and foreign key constraints
+
+Visual ER diagram to illustrate table connections
